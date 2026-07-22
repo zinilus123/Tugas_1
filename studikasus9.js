@@ -8,4 +8,4 @@ for (let i = 0; i < produk.length; i++) {
         status = "Produk Murah"
     }
     console.log(produk[i], ":", harga[i], "->", status)
-}
+};

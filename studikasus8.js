@@ -7,4 +7,4 @@ for (let i = 0; i < menu.length; i++) {
         status = "Menu reguler"
     }
     console.log(`Menu ke-${i + 1} : ${status}`);
-}
+};

@@ -15,7 +15,7 @@ if (totalHarga > 30000) {
 } else {
     console.log("Belanja lagi agar mendapatkan diskon.")
     status = "tidak mendapatkan diskon";
-}
+};
 
 console.log("====================");
 console.log("Nama           : ", nama);

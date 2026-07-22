@@ -9,4 +9,4 @@ for (let i = 0; i < hero.length; i++) {
     } else {
         console.log(heroF + " -> Hero Biasa");
     }
-}
+};
